@@ -1,0 +1,51 @@
+<!-- PatentsandPublications.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Patents and Publications | Sunil Kumar Chawla</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="college-logo.png" alt="College Logo" class="logo">
+    <img src="sunil-photo.jpg" alt="Sunil Kumar Chawla" class="photo">
+    <h1>Sunil Kumar Chawla</h1>
+    <p>Associate Professor in Computer Science and Engineering | 20+ Years Experience</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="experience.html">Experience</a>
+    <a href="subjects.html">Subjects</a>
+    <a href="certifications.html">Certifications</a>
+    <a href="PatentsandPublications.html">Patents and Publications</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <section>
+    <h2>Certifications, Seminars & FDPs</h2>
+    <ul>
+      <li>SYSTEM AND METHOD FOR ATTACK PREVENTION OF HEALTHCARE DATA IN CLOUD USING IOT, Patent
+Application No. 202011003633, Status: Published and Under Examination</li>
+      <li>AUTOMATIC EMERGENCY VEHICLE EVACUATION SYSTEM, Patent Application No. – 202011013089,
+Status: Published</li>
+      <li>DESIGN OF MACHINE LEARNING CLASSIFICATION ALGORITHMS USING IMAGE PROCESSING FOR
+DETECTION OF VEGETABLE CROPS DISEASE, Patent Application No. 202241012480, Status: Published</li>
+      <li>PIEZORESISTIVE SENSORS BASED ECG BELT, Application No. 202311069337, Status; Published with
+Chitkara University (Punjab) et al.</li>
+      <li>Multi utility Screwdriver Design No. 360864‐001 dated 17/03/2022 registered with Chitkara University
+(Punjab) et al.</li>
+<li>Door Stopper Design No. 365407‐001 dated 03/06/2022 registered with Chitkara University (Punjab) et
+al.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Sunil Kumar Chawla | Academic Website</p>
+  </footer>
+</body>
+</html>
+
